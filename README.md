@@ -68,6 +68,7 @@ Use Redis with Docker or install manually from [https://github.com/microsoftarch
 ### 5. Start the ASGI Server with Uvicorn
 
 ```bash
+cd chat_app
 uvicorn chat_app.asgi:application --host 127.0.0.1 --port 8000 --reload
 ```
 
