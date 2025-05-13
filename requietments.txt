@@ -1,0 +1,9 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+channels
+channels_redis
+uvicorn
+redis
+PyJWT
+python-dotenv
