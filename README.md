@@ -230,10 +230,10 @@ MIT License — free to use, share, and modify.
 ## 👨‍💼 Author
 
 **Zeeshan Habib**
-Backend & Mobile Developer
-📧 [yzesbox6@gmail.com](mailto:zesbox6@gmail.com)
+Software Engineer
+📧 [zesbox6@gmail.com](mailto:zesbox6@gmail.com)
 🔗 [GitHub](https://github.com/itx-zeeshan) | [LinkedIn](https://www.linkedin.com/in/zeeshan-habib-dev/)
 
 ---
 
-**P.S. Reach out for collaboration or freelance work!**
+**P.S: Reach out for collaboration or freelance work!**
