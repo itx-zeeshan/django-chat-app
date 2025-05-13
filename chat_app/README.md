@@ -25,7 +25,7 @@ This is a real-time chat application built using **Django**, **Django Channels**
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/django-chat-app.git
+git clone https://github.com/itx-zeeshan/django-chat-app.git
 cd django-chat-app
 ```
 
